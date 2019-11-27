@@ -86,7 +86,7 @@ html {
 
 /*-------------------------------------------*/
 .grad-2 {
-  background-color: #D9AFD9;
+/*   background-color: #D9AFD9; */
   background-image: linear-gradient(#0a93ad, #f7f4c8);
   height: 80vh;
   border-radius: 1rem;
