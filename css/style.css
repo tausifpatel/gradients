@@ -87,62 +87,12 @@ html {
 /*-------------------------------------------*/
 .grad-2 {
   background-color: #D9AFD9;
-  background-image: linear-gradient(#97D9E1, #D9AFD9);
+  background-image: linear-gradient(#0a93ad, #f7f4c8);
   height: 80vh;
   border-radius: 1rem;
-  font-family: 'Quicksand', sans-serif;
-  position: relative; }
-  .grad-2 .navbar-nav > .nav-item > .nav-link:link,
-  .grad-2 .navbar-nav > .nav-item > .nav-link:visited {
-    color: #fff;
-    font-size: 1.4rem;
-    letter-spacing: 1.5px;
-    width: 100%; }
-  .grad-2 h2 {
-    width: 100%;
-    border-bottom: 1px solid #97D9E1;
-    line-height: 0.1em;
-    margin: 10px 0 20px; }
-  .grad-2 .grad-2-textbox {
-    position: absolute;
-    width: 500px;
-    top: 50%;
-    left: 35%;
-    transform: translate(-50%, -50%); }
-    @media only screen and (max-width: 990px) {
-      .grad-2 .grad-2-textbox {
-        left: 55%; } }
-    .grad-2 .grad-2-textbox .grad-2-heading {
-      font-size: 4rem;
-      font-weight: 700;
-      color: #fff;
-      text-transform: uppercase; }
-    .grad-2 .grad-2-textbox .grad-2-subtext {
-      font-size: 2rem;
-      font-weight: 300;
-      color: #fff; }
-  .grad-2 .plain-box {
-    background-color: #fff;
-    height: 25rem;
-    width: 25rem;
-    position: absolute;
-    top: 50%;
-    left: 70%;
-    transform: translate(-50%, -50%);
-    box-shadow: 0 10px 20px 0 rgba(220, 220, 220, 0.2), 0 6px 20px 0 rgba(20, 0, 0, 0.19); }
-    @media only screen and (max-width: 990px) {
-      .grad-2 .plain-box {
-        display: none; } }
-  .grad-2 .fa {
-    color: #D9AFD9;
-    font-size: 9rem;
-    top: 50%;
-    left: 70%;
-    transform: translate(-50%, -50%);
-    position: absolute; }
-    @media only screen and (max-width: 990px) {
-      .grad-2 .fa {
-        display: none; } }
+}
+
+
 
 /*------------------------------------------*/
 .grad-3 {
